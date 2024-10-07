@@ -123,3 +123,6 @@ xapads.com, 117219, RESELLER
 yeahmobi.com, 5135195, RESELLER
 zmaticoo.com, 5135195, RESELLER
 zmaticoo.com, 5135704, RESELLER
+
+#admob
+google.com, pub-7669660671807867, DIRECT, f08c47fec0942fa0
